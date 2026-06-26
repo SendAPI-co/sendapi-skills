@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "sendapi": {
+      "type": "http",
+      "url": "https://sendapi.co/mcp",
+      "headers": {
+        "Authorization": "Bearer ${SENDAPI_API_KEY}"
+      }
+    }
+  }
+}
