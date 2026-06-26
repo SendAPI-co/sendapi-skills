@@ -1,0 +1,20 @@
+{
+  "name": "sendapi-skills",
+  "metadata": {
+    "description": "SendAPI messaging skills for Claude Code"
+  },
+  "owner": {
+    "name": "SendAPI",
+    "email": "hello@sendapi.co"
+  },
+  "plugins": [
+    {
+      "name": "sendapi",
+      "description": "Send WhatsApp, SMS, OTP, and email through SendAPI with the right channel, verification flow, and bulk-send guardrails",
+      "source": "./",
+      "category": "developer-tools",
+      "homepage": "https://sendapi.co",
+      "tags": ["whatsapp", "sms", "otp", "email", "messaging", "mcp", "notifications", "verification"]
+    }
+  ]
+}
