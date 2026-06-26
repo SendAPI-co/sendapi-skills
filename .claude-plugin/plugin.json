@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "sendapi",
+  "description": "Send WhatsApp, SMS, OTP, and email through SendAPI with the right channel, verification flow, and bulk-send guardrails",
+  "version": "1.0.0",
+  "author": {
+    "name": "SendAPI",
+    "email": "hello@sendapi.co",
+    "url": "https://sendapi.co"
+  },
+  "homepage": "https://sendapi.co",
+  "repository": "https://github.com/SendAPI-co/sendapi-skills",
+  "license": "MIT",
+  "keywords": ["whatsapp", "sms", "otp", "email", "sendapi", "messaging", "notifications"]
+}
